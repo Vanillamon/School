@@ -1,0 +1,21 @@
+﻿<div class="container">
+    <div class="scrollable" ng-controller='bulletinController' ui-state="searchBar">
+        <div class="scrollable-content text-center" ui-scroll-bottom='bottomReached()'>
+            <legend>Posted Bulletins</legend>
+            <div class="list-group">
+                <div ng-repeat="item in scrollItems" class="list-group-item">
+                    <b>Title:</b> {{ item.title }}<br/><br/><b>Message:</b> {{ item.message }}
+                </div>
+                <nav class="navbar navbar-inverse navbar-fixed-bottom">
+                    <div class="container text-center">
+                    <div class="row">
+                        <div class="text-center">
+                            <br/>
+                            <a href="#/bulletin_add"><i class="fa fa-list"></i> Post Bulletin</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>

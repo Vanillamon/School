@@ -1,0 +1,33 @@
+﻿<div class="container">
+    <div ui-content-for="title">
+        <span>Post Bulletin</span>
+    </div>
+    <div class="scrollable" ng-controller="bulletinController">
+        <div class="scrollable-content section">
+
+            <form role="form" ng-submit='bulletinAdd()'>
+                <fieldset>
+                    <div class="form-group has-success has-feedback">
+                        <label for="title">Title:</label>
+                        <input type="text"
+                               class="form-control"
+                               placeholder="Enter title"
+                               id="title">
+                    </div>
+                    <div class="form-group">
+                        <label for="bulletinContent">Enter Message:</label>
+                        <textarea class="form-control" rows="5" id="bulletinContent"></textarea>
+                    </div>
+                </fieldset>
+                <hr>
+                <button class="btn btn-primary btn-block">
+                    Post Bulletin
+                </button>
+                <!-- <div ui-content-for="navbarAction">
+                    <a class='btn' ng-click='login()'>Add</a>
+                </div>
+                -->
+            </form>
+        </div>
+    </div>
+</div>

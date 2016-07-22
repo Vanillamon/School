@@ -1,0 +1,6 @@
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\bin\SinglePage_Capstone.dll.config
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\bin\SinglePage_Capstone.dll
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\bin\SinglePage_Capstone.pdb
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\obj\Debug\SinglePage_Capstone.csprojResolveAssemblyReference.cache
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\obj\Debug\SinglePage_Capstone.dll
+c:\users\edmon\documents\visual studio 2013\Projects\SinglePage_Capstone\SinglePage_Capstone\obj\Debug\SinglePage_Capstone.pdb
