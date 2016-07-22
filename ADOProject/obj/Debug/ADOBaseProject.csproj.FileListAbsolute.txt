@@ -1,0 +1,9 @@
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\bin\Debug\ADOProject.dll.config
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\bin\Debug\ADOProject.dll
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\bin\Debug\ADOProject.pdb
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOProject.Form1.resources
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOProject.Properties.Resources.resources
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOBaseProject.csproj.GenerateResource.Cache
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOProject.dll
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOProject.pdb
+C:\Users\Edmon\Documents\Visual Studio 2013\Projects\ADOProject\obj\Debug\ADOBaseProject.csprojResolveAssemblyReference.cache
